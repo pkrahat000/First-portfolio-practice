@@ -1,0 +1,186 @@
+.header{
+    background-image: url(../images/donation7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 630px;
+    
+}
+.header-bg{
+    padding-top: 200px;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    
+}
+.header-title{
+    font-size: 55px;
+    font-weight: 700;
+    
+}
+.header-button{
+    padding: 12px 20px;
+    background-color: rgb(253, 83, 71);
+    color: white;
+    border:1px solid rgb(253, 83, 71);
+    border-radius: 5px;
+
+}
+
+/*donate-section*/
+main{
+    max-width: 1140px;
+    margin: 0px auto;
+}
+.donate-section{
+    text-align: center;
+    margin-top: 130px;
+}
+.donate-title{
+    font-size: 35px;
+    font-weight: 700;
+}
+.donate-description{
+    color: rgb(129, 125, 125);
+}
+
+/*taka section*/
+.taka-section{
+    display: flex;
+    gap:20px;
+    justify-content:center;
+}
+.taka{
+    background-color: rgb(228, 222, 222);
+    padding: 50px;
+    font-size: 20px;
+}
+.taka-1{
+    background-color: rgb(252, 202, 202);
+    padding: 50px;
+    border: 2px solid rgb(253, 83, 71);
+    color: rgb(253, 83, 71);
+    font-size: 20px;
+}
+.Others-Amount{
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 80px;
+}
+.Others-Amount-input{
+    border: 0px;
+    padding: 20px;
+    text-align: center;
+}
+.taka-section-button{
+    text-align: center;
+}
+.our-donation{
+    text-align: center;
+}
+.our-donation-title{
+    margin-top: 130px;
+    font-size: 35px;
+    font-weight: 700;
+}
+.our-donation-description{
+    color: rgb(129, 125, 125);
+}
+.our-donation-div-main{
+    display: flex;
+    gap:30px;
+    padding-top: 20px;
+    
+}
+.our-donation-div-1{
+    padding:55px 10px  ;
+    background-color: rgb(218, 250, 250);
+}
+.our-donation-div-2{
+    padding:55px 10px  ;
+    background-color: rgb(239, 214, 253);
+}
+.our-donation-div-3{
+    padding:55px 10px  ;
+    background-color: #faf8da;
+}
+.fa-solid{
+    font-size: 50px;px
+}
+.our-donation-3-description{
+    color: rgb(129, 125, 125);
+}
+
+/*our-donation-lastpart*/
+.our-donation-lastpart{
+    display:flex;
+    margin-top: 100px;
+    
+}
+.lastpart-button{
+    padding: 12px 20px;
+    background-color: rgb(253, 83, 71);
+    color: white;
+    border:1px solid rgb(253, 83, 71);
+    border-radius: 5px;
+    
+}
+.lastpart-btn{
+    margin-top:20px ;
+}
+.lastpart{
+    margin: auto 0px;
+    padding-left:50px;
+}
+/*update*/
+.update{
+    text-align: center;
+}
+.update-title{
+    margin-top: 100px;
+    
+}
+.update-des{
+    color: rgb(129, 125, 125);
+    padding-bottom: 50px;
+}
+.update-main{
+    padding: 50px;
+    text-align: center;
+    background-color:rgb(255, 255, 220);
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+}
+.update-input{
+    padding: 12px 100px 12px 12px;
+    border: 0px;
+    background-color: rgb(230, 239, 247);
+    z-index: 1;
+}
+.update-button{
+    padding: 12px 25px;
+    background-color: rgb(253, 83, 71);
+    color: white;
+    border:1px solid rgb(253, 83, 71);
+    border-radius: 5px; 
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+    padding: 30px 0px;
+    
+}
+.footer-title{
+    color:rgb(253, 83, 71);
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+
+}
+.footer-des{
+    color: white;
+}
+
+
+color: rgb(129, 125, 125);
